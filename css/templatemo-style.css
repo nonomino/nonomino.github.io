@@ -163,7 +163,7 @@ h1,h2,h3,h4,h5
 /* start home */       
 #home
 	{
-        background: url('../images/road-bg.jpg');
+        background: url('../images/cloud-bg_2jpg');
         background-size: cover;
         background-repeat: no-repeat;
         padding-top: 120px;
@@ -410,7 +410,7 @@ footer hr
         color: #3fd4be;
     }
 /* end social icon */
-al-icon li a:hover
+-icon li a:hover
     {
         color: #D43F52;
     }
