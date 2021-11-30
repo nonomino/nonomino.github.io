@@ -1,16 +1,8 @@
-/*
-
-Lavish HTML CSS Template
-
-https://templatemo.com/tm-458-lavish
-		
-*/
-
 body
 {
 	background: #000000;
 	color: #999;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Bad Script', cursive;
 	font-size: 16px;
 	font-weight: 400;
 }
@@ -414,6 +406,11 @@ footer hr
         margin-right: 10px;
     }
 .social-icon li a:hover
+    {
+        color: #D43F52;
+    }
+/* end social icon */
+al-icon li a:hover
     {
         color: #D43F52;
     }
