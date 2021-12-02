@@ -33,7 +33,7 @@ h1, h2, h3, p, i, address, .eaf-text-white { color: black; }
 
 .eaf-container-fluid {
     width: 100%;
-    max-width: 970px;
+    max-width: 930px;
     box-sizing: border-box;
     margin: 0 auto;
     padding: 50px 12px;
